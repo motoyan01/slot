@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+#container {
+  margin: 0 auto;
+  width: 180px;
+}
+
+tr, td {
+    height: 45px;
+    width: 60px;
+    text-align: center;
+}
+
+th {
+  color: skyblue;
+}
+
+td {
+  background-color: skyblue;
+}
+
+h1 {
+  text-align: center;
+}
